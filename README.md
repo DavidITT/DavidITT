@@ -23,7 +23,7 @@ Nice to meet you. I am a passionate technology enthusiast who strives daily to i
   </a> 
   <img width="12" />
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="40" alt="laravel logo"  />
   </a> 
   <img width="12" />
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
